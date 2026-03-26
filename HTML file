@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My First GitHub Page</title>
+</head>
+<body>
+
+    <h1>Hello, I'm Ruban 👋</h1>
+    <p>Welcome to my GitHub project.</p>
+
+    <h2>About Me</h2>
+    <p>I am learning Cloud Computing and DevOps.</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>AWS</li>
+        <li>Linux</li>
+        <li>Git & GitHub</li>
+        <li>Python</li>
+    </ul>
+
+    <h2>Contact: 8220942152</h2>
+    <p>Email: rubanfrancis6@gmail.com</p>
+
+</body>
+</html>
